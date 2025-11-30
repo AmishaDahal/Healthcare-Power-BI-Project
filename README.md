@@ -5,6 +5,13 @@ This project was inspired by my experience working as a **U.S. Healthcare Data A
 
 ---
 
+<div style="display:flex; gap:30px;">
+  <img src="images/PatientsDemographics.png" width="325">
+  <img src="images/Treatment&Cost.png" width="325">
+  <img src="images/KeyTrends.png" width="325">
+</div>
+
+
 ## 🔍 Problem Statement
 
 In many healthcare systems, data related to **patients, billing, length of stay, medical conditions, and hospital operations** is stored across separate systems.  
